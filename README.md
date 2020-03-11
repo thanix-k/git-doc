@@ -5,7 +5,7 @@ or
 ```git reset --hard branch-name@{"10 minute ago"}```
 
 ### To rename a branch from local to remote
-> git branch -m old_branch new_branch.            :point_right: Rename branch locally
+```git branch -m old_branch new_branch```         :point_right: Rename branch locally
 
 ```git push origin :old_branch```                 :point_right: Delete the old branch   
 
