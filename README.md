@@ -13,6 +13,7 @@ or
 
 ### To stash
 ```git stash```                                      :point_right: Saves your workspace temporarily
+
 ```git pop``` or  ``` git pop {_HASHCODE_}```        :point_right: Restores the workspace
 
 
