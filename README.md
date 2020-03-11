@@ -10,3 +10,9 @@ or
 ```git push origin :old_branch```                 :point_right: Delete the old branch   
 
 ```git push --set-upstream origin new_branch```   :point_right: Push the new branch, set local branch to track the new remote
+
+### To stash
+```git stash```                                      :point_right: Saves your workspace temporarily
+```git pop``` or  ``` git pop {_HASHCODE_}```        :point_right: Restores the workspace
+
+
